@@ -226,10 +226,90 @@ interpretation (Always need to look at bars preceding a doji)
 - dont try to make to trendline fit
 
 
+# Chart patterns
+- continuation patterns
+- reversal patterns
+
+ -  ## Continuation pattern (gives breakout in the original trend direction)
+    - in an established trend there may be a "pause" in buying and selling...trend is losing steam  
+    - when you see a continuation pattern that is indicating that the trend will accelerate again after the pause
+    - feel good you idnentified the trend correctly
+    - Trade continuation patterns
+        - Uptrend
+            - not sell and ride price up further
+            - add more to your poisition
+        
+        - Downtrend
+            - Need to continue to wait out the downtrend before buying in
+
+## Ascending triangle (continuation pattern)
+- Higher hight not made but uptrend will continue
+- it is very likely to give breakout in the previous trend direction + also the ascending triangel itselfs forms the uptrend so having the previous trend in the uptrend is a win win
+- prices not making new lows either
+- 3rd touch of support line strong confirmation
+- Plus, Can use a 2nd inidicator to further confirm the buy signal
+- ![ascending traingle](https://a.c-dn.net/b/0BqoZ6/ascending-triangle-pattern_body_Ascendingtriangleexplained.png.full.png)
 
 
+## Desending triangle (continuation pattern)
+- Lower lows not made but downtred will continue
+- prices not making new highs either
+- ![desending triangle](https://www.wallstreetzen.com/blog/wp-content/uploads/2023/03/Untitled-7.png)
 
+## Flag (continuation)
+- Continuation pattern with a dramatic but breif reversal
+- looks like a flag (pennat) on a flagpole
+- similar to triangle
+- sharp rise or fall
+- its more likely to continue to the original trend after the pattern has been completed
+- lots of trading volume at the base of the flag pole
 
+## Rectangle (Continuation)
+- if you were to draw two lines...forming a reactange..what may it loo like on the chart
+- think about connecting high-high and low-low with horizontal lines
+- ![rectangle](https://investobull.com/blog/wp-content/uploads/2020/12/Bullish-Rectangle-Pattern-1024x580.png)
+- rectangle could be a part of a trend (Channel)
+- ![](https://www.investopedia.com/thmb/n6Y2nd4LjwVg-lKU3GLxJ290--8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dotdash_INV_final_Ascending_Channel_Jan_2021-01-e24ac9e9f9d143b4845a9e7c827e555a.jpg)
+- ![fasdf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68Md77hJeSWyMg9imtNcsjNHg2W_irvL1xA&usqp=CAU)
 
+## Dead cat Bounce chart pattern (continuation)
+- Downside breakaway gap on bad news (25-70%)
+- Bounce (Dead cat hits the floor)
+    - Short-Term, does not reach original pre-gap price
+    - resumes string downtrend (continuation pattern)
+- trade on Bounce..but be ready to get out
+- while bouncing as soon as it reaches the breakaway gap of the downtrend we should exit the trade because afer that it will go down and coniutnue in the down trend
+- ![dead cat bounce](https://forexbee.co/wp-content/uploads/2023/03/dead-cat-bounce-pattern-1.png)
+
+## Cup with handle pattern (continuation)
+- Combines price pattern, volume levels and moving averages indicators
+- continuation pattern that takes time to develop but strong indicator when it does
+- the longer 'U' shaped cup more predictable than a 'V' shape cup
+- Cup should not be very deep
+- it should not move below simple moving average(SMA) line
+- ![](https://www.strike.money/wp-content/uploads/2023/09/CUPAND4.jpg)
+
+# Reversal patterns
+- ## Double Bottom pattern (Reversal)
+    - ![](https://cdn-0.forexbee.co/wp-content/uploads/2021/10/double-bottom-trading-strategy.webp)
+    - Looks like a W
+    - Retest of a low
+    - Predicts price breakout to the upside ...under certain conditions
+    - ### Conidtions to be met
+        - Minumium 10 days between the lows could be 2-3 months, it means that there should be atleast a 10 day gap between those 2 bottoms
+        - Variation between the lows no more than 4%, it should be alingned same on the support zone
+        - Center up move min 10% from the lover of the two bottoms
+        - price must move above the confirmation
+
+- ## Double Top Pattern (Reversal)
+    - ![double top](https://cdn-0.forexbee.co/wp-content/uploads/2021/09/double-top-trading-rules.webp)
+    - ### Conidtions to be met
+        - Minumium 10 days between the highs could be 2-3 months, it means that there should be atleast a 10 day gap between those 2 bottoms
+        - Variation between the highs no more than 4%, it should be alingned same on the resistance zone
+        - Center down move min 10% from the higher of the two tops
+        - price must move below the confirmation line
+
+- ## Head and Shoulders (Reversal)
+    - ![head and shoulders](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/HwspssEjoy.png)
 
 
