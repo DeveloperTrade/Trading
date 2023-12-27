@@ -137,3 +137,99 @@ interpretation (Always need to look at bars preceding a doji)
         - consistently all in a row
         - continuation of the downtrend
         - stronger indicator: Bottom wick short, close at or near low
+
+
+## Trend Lines
+    - Remember "trend is your friend"
+    - straight Line
+        - Done using trading platform
+    - Could be upward or downward
+    - Give you confidence to buy or sell
+    - Dont worry if not perfect lines as not exact and may have  a sideways market at times and outliers
+    - the key is to be consistent
+    - ![hello world](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/Support%20and%20Resistance.png)
+
+## Uptrend ( Buy at low[support] sell at top[resistance] )
+- start at lowest low and connect to the next lowest low that precedes a new high
+- as long as new highs are being made, redraw the line to connect the lowest low before the last high
+- when prices stop making new Hights, stop drawing
+    - extrend the line the same slope into the future
+
+    ## Support line entry rule
+    - Buy on the 2nd or 3rd touch of the support line
+    ## Support line exit rule
+    - Sell as soon as possible after low falls below the support line (Trend Broken)
+
+    ## important
+    - in order to check that how much reliable that trend line is we should wait for the 2 or 3 touch 
+
+## Downtrend (Resistance line)
+- start at highest high and connect to the next high that precedes a new low
+- as long as new lows are being made, redraw the line to connect the highest high before the last low
+- When prices stop making new lows, stop drawing
+    - Extend the line at the same slope into the future
+
+## Channels (sideways)
+- Simply Draw support and resistanc elines ont eh same chart
+- take note of which one is the predominant trend
+
+## Identify false trend line breaks
+- Once a trendline is broken... the trend is over
+- You will be very served following this rule
+- Takes emotion and hope of out it
+
+- However, false breaks do happen
+    - how to Identify
+    - strategy to deal with them
+
+### Note: false breakouts actually are not false, it really did happend, the line was crossed, but what ends up being false is the concluson you draw, in a way you are misled
+
+## how to Identify?
+- did the breakout occur as part of the range or did the final close break it as well?
+- 'close breakage' means less likely to be random or noise related
+
+- ## Trading Volume
+    - High volume or volume spike often accompanies the end of strong trend
+        - Buying or selling frenzy
+    - Steep volume decline shows overall interest is wanning and may signal a breakout
+    - Steady volume then less likely for a breakout but be wary as any cross of the trendline is always significant
+    - Using inidicators can also play  a role in corfimaing a breakout or might be signaling the breakout for us in advance
+
+## Strategic approch to false breakouts
+- ## Support line break
+    - 1. adjust your stop loss ot lock in profits( trail stop loss)
+    - 2. Adjust the total money comitted to the trade.
+        - Sell some but not all to reduce risk and lock in some profit
+        - Sell all later, on a more definite sell signal
+- ## Resistance line break
+    - 1 Wait for 2nd or 3rd touch to buy into new uptrend
+    - 2 Sell short (Beting price will conitnuire to go down) at #2 or #3 touch of the resistance line
+    - 3 Close your short-poisition at resistance line breakout (Book profits)
+
+## Filter approch to false trendline breakouts
+- Amount (%) of the break , before taking action
+- Duration (Time) of the break, before taking action
+- for example 
+    - No Sell, break < 10%
+    - Sell, Close break > 5%
+    - no sell on 1st day, BUT sell on 2nd full day below support line
+
+# to summarize
+- tend is an indicator (Tool)
+- can be upawrd or downward
+- great to combine wiht other trading indicators
+- further confirmation and confidence in your trade
+- if no trend, no indication , no trade
+- "trend is your friend"
+- trading on trends means you are not always in the markte on all teh securities you follow
+- you have to be patient with trendlines. let the trend develop
+- dont try to make to trendline fit
+
+
+
+
+
+
+
+
+
