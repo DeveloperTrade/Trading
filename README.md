@@ -310,6 +310,6 @@ interpretation (Always need to look at bars preceding a doji)
         - price must move below the confirmation line
 
 - ## Head and Shoulders (Reversal)
-    - ![head and shoulders](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/HwspssEjoy.png)
+    - ![head and shoulders](https://qph.cf2.quoracdn.net/main-qimg-41f44de0766a7b922d66911bd0086ffa-lq)
 
 
