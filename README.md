@@ -310,6 +310,45 @@ interpretation (Always need to look at bars preceding a doji)
         - price must move below the confirmation line
 
 - ## Head and Shoulders (Reversal)
-    - ![head and shoulders](https://qph.cf2.quoracdn.net/main-qimg-41f44de0766a7b922d66911bd0086ffa-lq)
+    - ![head and shoulders](https://d24uab5gycr2uz.cloudfront.net/uploads/other_pic/HwspssEjoy.png)
+
+# Moving averages: Great indicator and trading Tool
+- Key component of technical analysis
+- Smooths out pricing
+- adjusts for pricing outliers
+- can be used with other inidicators
+- helps to Identify trends and certain actions to take
+- Important points that one should know
+    - lagging indicator ( not forecasting ) or trend following
+    - you dont have to try and figure out start and end points (Like a hand drawn trendline)..all mathematic
+    - subjective part is chooing the type of moving average and how many periods (Ex, days) to calculate
+
+    - ## Simple moving average (SMA)
+        - prices(10 days)
+        - 20,24,22,33,31,29,28,29,29
+        - average = 245/10 = $24.5
+        - on 11th day drop day 1 and add day 11
+        - 24,22,33,31,29,28,29,29,32
+        - average = 257/10 = $25.7
+        - this process repeats on each day and that is how the moving average line is created
+        - we can also use more than 1 moving average that is both for different time frames for example one for 200 days and second for 50 days
+
+    - ## What is Crossover Rule?
+        - Buy: price crosses above the moving average line
+        - Sell: prices crosses below the moving average
+
+    - ## how to overcome whipsaws(sideways) market when they are frequently crossing up and below the moving average?🤔
+        - Use filters to "Filter Out" Valid buy/sell signals from false signals
+        - Time: price ahs to remain above/below crossover point for x number of periods
+        - Extent: Price had to supass the moving average value by X%
+        - Volume: Crossover has to be accompanied by a significant rise in volume
+        - Extreme sentimemt: Uptrend, the low has to surpass the moving average, not just the close and in a downtrend, teh high has to be under the moving average, not just the close. Looking at wick (range) in a candlestick. 
+
+        - Alternative to more popular crossover
+            - call end to trend when
+                - uptrend: Moving average today is less than yesterday
+                - donwtrend: Moving average today is higher than yesterday
+            - can call the end of trend faster than the crossover rule
+            - still suffers from lag and whipsaws but alternative and could use as a filter
 
 
