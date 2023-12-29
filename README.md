@@ -351,4 +351,121 @@ interpretation (Always need to look at bars preceding a doji)
             - can call the end of trend faster than the crossover rule
             - still suffers from lag and whipsaws but alternative and could use as a filter
 
+    - ## Weighted moving average
+        - You want the moving average to be more reflective of the most recent price
+        - Makes sense..not buying 200 days ago, buying today
+        - you could reduce the number of days in the SMA(Simple Moving Average)
+        - ***Put More weight on more recent days***
+        - for example: prices (5 days) are 202,24,22,33,31
+        - Average = 130/5 = $26.00
+        - but in the case of Weighted average we put more weights on the most recent days
+            - Weighted average = (20*1)+(24*2)+(22*3)+(33*4)+(31*5)
+            - [20+48+66+132+155]/(1+2+3+4+5) (these are weights not days)
+            - 421/15 = $28.06
 
+    - ## Exponentail Moving average (Popular)
+        - ***Even more weights to recent days***
+        - the weighting given to the most recent price is greater for a shorter-period EMA than for a long-period EMA
+        - For example, an 18.18% multiplier is applied ot the most recent price data for a 10-day EMA, whereas for a 20 day EMA, only a 9.52% multiplier weighting is used
+
+    - ## Adaptive moving average
+        - Push Pull: Short time frame to identify beginning of trend quickly and long as necessary to avoid constant buy/sell activity (Whipsaws)
+        - Sometimes want small number of days and sometimes high number of days...but you do not force it because not sure which is right?
+        - adaptive moving averages use complex adn automated calculations to do this by detrending the series to make the current price most important
+    
+    - ## Kaufman Adaptive Moving Average (KAMA)
+        - Developed by Perry Kaufman
+        - KAMA will closely follow prices when the price swings are relatively small and the noise is low.
+        - Complex formula with multiple layers
+        - kaufman recommends settings of:
+            - 10 is the number of periods for the efficienty ratio (ER).
+            - 2 is the number of perioids for the fastest exponential moving average EMA constant
+            - 20 is the number of perioids for the slowest EMA constant 
+    - Which moving average should you use??
+        - Most sensitive to recent price moves
+            - SMA
+            - WMA
+            - EMA or KAMA
+
+        - Time Frame
+            - Short time frame moving average respond quickly to new coniditions
+            - Longer time frame reduces errors
+    
+    - ## Moving average Limitations
+        - Moving averages limitations...very useful but nothing is perfect
+        - Sideways movement
+            - By nature, when price is not trending (Moving Sideways) then hard to predict next move
+            - Whipsaw (Frequent price change above adn below the crossover line)
+            - The value in sideways movement is to recognize that is occuring and adjust or wait for a trend to appear  
+            - use other tools with moving average to identify actions to take
+        - Noise
+            - Disorderly chart with lots of outliers (Noisey)
+            - Problem is a noisy chart will give off more false buy/sell indicators
+            - Fix by applying a moving average with more days in it
+                - outliers get smoothed out more and becomes less of an outlier
+                - However, longer time frames increases lag
+        - Lag
+            - See a dramtic price move, see potential profits, but you are a disiplined investor who needs to wait a few days for the lagging moving average to catch up to create a crossover
+            - Meanwhile, losing out on profits waiting for that to happen
+            - fix by applying a moving average wiht less days in it
+                - will be more sensitive to recent price
+        - Notice the conflict
+            - Noise: Fix by applying a moving average with "***more days***" in it
+            - Lag: Fix by applying a moving average with "***less days***" in it
+
+            Unfortunately, there is no magic number of days
+                - the best number is one that's reduces the noise without adding too much lag
+            - Alternativetly, you could focus on a security that is more orderly , less noisy
+            - Another option...Use Multiple Moving Averages as strategy
+    - ## Multiple moving average as an indicator
+        - One chart, More than one moving average timeline/type
+        - what looking for is not price crossing a moving average but a shorter moving average (ex 5 days) crossing a longer moving average (ex 20 days)
+        - 5 and 20 day is a common combination as in effect comparing one week of prices (5 days) and one month (20days)
+        - however you can choose and experiment with your own timelines
+        - ***BUY***: When the shorter moving average line crosses the longer moving average on the upside (Above)
+        - ***SELL***: When the shorter moving average line crosses the longer moving average on the downside (Below)
+        - between the 2 moving average we can see the gap and that is what called  "DayLight" if there is more daylight we can also use this to confirm that it is making a good amount of gap just to be sure that the trend reversal is gonna be for real
+
+    - Moving Average Convergence Divergence (MACD)
+        - it is so widely used that is is many times a default setting on a trading platform
+        - tries to overcome challenge of a disciplined investor waiting for the price to cross a moving average or one moving average to cross another
+        - You can see it forming but you wish you could take-action now
+        - it overcomes that challenge for waiting for that crossover to occur and gives an early chance to make a poisition
+        - with crossovers you see a merge (turning point) approaching and then a new direction may occur
+        - By the time the crossover occurs the absolute peak/trough has already passed
+        - Would be nice to visually see or quantify that...that is where the MACD comes in
+        - ***Convergence***
+            - Indicates the trend may be coming to and end
+            - Can be an early warning signal
+        - ***Divergence (Going Aprt or "More Daylight")***
+            - Current trend safe from crossover (Reversal)
+            - At least for a few more periods
+            - However, abnormally wide divergence are not sustainable and can be a warning that prices have reach an extreme (Peak/Bottom)
+        
+        - ***how macd is calulcated??***  v
+            - Long-term moving average prices are subtracted from the short-term moving average prices
+            - Trading platform does that automatically and create a nice line chart
+            - Created By Gerald Appel and he used Exponentail moving averates(EPA) of 26 and 12 days ...although you can the paramters you choose
+        - ## Some common Moving Average
+            - 20 day moving average stands out
+            - 20 days equal 1 months of trading days
+            - Well know and observerd by the trading community...almost a self-fulfilling prophesy
+            - When a security is trending
+                - Common, 20 day moving average works like a support line, Seller s stop selling when it is reached 
+                - Less common, 20 day moving average works like a resistance line...Buyers stop buying when it is reached
+            - Other popular moving averages include
+            - 5 day ( 1 Week of trading )
+            - 50 day
+            - 100 day
+            - 200 day
+            - why popular...because they are round numbers..not magic numbers
+            - Gives something teh financial news to talk about like the dreaded...
+            
+            - ## Death Cross 
+                - Death cross is simply when the 50 day moving average crossing below the 200 day moving average
+                    - no statistical advantage over any other crossing pattern.Actaully, since longer time perioids could be more of a lag
+                    - Traders recognize a Death Cross so may be a self-fulfilling prophesy
+            
+            - ## Golden Cross
+                - Golden Cross is when the 50 day moving average crosses above the 200 day moving average 
+            - Some would say Death Cross means wider bear market and golden cross means wider bull market
