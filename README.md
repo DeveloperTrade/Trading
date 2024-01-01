@@ -469,3 +469,68 @@ interpretation (Always need to look at bars preceding a doji)
             - ## Golden Cross
                 - Golden Cross is when the 50 day moving average crosses above the 200 day moving average 
             - Some would say Death Cross means wider bear market and golden cross means wider bull market
+
+# Momemtum
+- one of the bigges tchallenges is detecting when a trend is about to end..or is it a minor pullback
+- Momemtum tools are terrific at overcoming that challenge
+- Momemtum is the speed of f price change (Easy to calcuate)
+    - todays price/prices x number of days ago
+    - rate of change (Roc) method, takers simple verison and applies percenetages   
+
+    - example
+        - Price rising fast..momemtum number keeps getting bigger...on chart shows a rising line
+        - prices rising but not so fast...the line flattens out
+    
+    - Momemtum is all about the change in price level rather than level itself
+    - great concept but we want more
+    - meaure accelration and deacceleration
+    - rate of change
+    - eliminate as much noise as possible
+    - see momemtum in context of the price range
+    - primary indicator for overbough and oversold situations   
+    - want to use momemtum as a confirming indicitor
+        - evaluating the strength of a trend from another inidicator
+        - confirming a moving average crossover
+    - ## Poweful momemtum indicators
+        - **realtive strength index (RSI)**
+        - **Stochastic Osciallator**
+    
+    ## Techincaal momemtum vs Momemtum Investing
+        - they are different conecepts  
+        ***momemtum*** is the arithmetic calcuation technical trader use identify the speed of change in the speed of trend
+
+        ***momemtum Investing*** is buying a security just because it is going up without actually measuring the rate of change or using other techincal factors
+
+    ## Momemtum as a trading indicator
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/1.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/Screenshot%202024-01-02%20030748.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/2.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/3.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/4.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/5.png?raw=true)
+
+    ## Relative Strength Index (RSI): a better momemtum inidicator
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/6.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/7.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/8.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/9.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/10.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/11.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/12.png?raw=true)
+    ![f](https://github.com/DeveloperTrade/Trading/blob/main/13.png?raw=true)
+
+    ## Stohastic Oscialltor 
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/14.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/15.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/16.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/17.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/18.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/19.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/20.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/21.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/22.png?raw=true)
+
+
+    ## RSI VS STOCHASTIC OSILLATOR: when use which?
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/23.png?raw=true)
+    ![](https://github.com/DeveloperTrade/Trading/blob/main/24.png?raw=true)
